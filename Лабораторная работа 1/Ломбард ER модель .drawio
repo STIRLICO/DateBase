@@ -221,7 +221,7 @@
         <mxCell id="wnnp_aeqc68U8V3xRx4T-101" edge="1" parent="1" source="wnnp_aeqc68U8V3xRx4T-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="wnnp_aeqc68U8V3xRx4T-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnnp_aeqc68U8V3xRx4T-102" edge="1" parent="1" source="wnnp_aeqc68U8V3xRx4T-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="wnnp_aeqc68U8V3xRx4T-3">
+        <mxCell id="wnnp_aeqc68U8V3xRx4T-102" edge="1" parent="1" source="wnnp_aeqc68U8V3xRx4T-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="wnnp_aeqc68U8V3xRx4T-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-127" y="659" />
@@ -236,7 +236,7 @@
         <mxCell id="wnnp_aeqc68U8V3xRx4T-100" edge="1" parent="1" source="wnnp_aeqc68U8V3xRx4T-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="wnnp_aeqc68U8V3xRx4T-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wnnp_aeqc68U8V3xRx4T-103" edge="1" parent="1" source="wnnp_aeqc68U8V3xRx4T-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" target="wnnp_aeqc68U8V3xRx4T-2">
+        <mxCell id="wnnp_aeqc68U8V3xRx4T-103" edge="1" parent="1" source="wnnp_aeqc68U8V3xRx4T-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="wnnp_aeqc68U8V3xRx4T-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wnnp_aeqc68U8V3xRx4T-99" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Содержит" vertex="1">
